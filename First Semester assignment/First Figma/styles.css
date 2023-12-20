@@ -39,7 +39,7 @@ p, a{
 
 .section1, .section2{
     flex: 1;
-    padding: 50px;
+    padding: 20px;
 }
 
 .section1{
